@@ -24,3 +24,13 @@ Wallpaper setup
 
 ## 💬 Support
 This script comes with no support what so ever, but i'm happy to help if you have questions or need custom functions.
+
+
+
+# ✔ Upcoming feautures:
+- Check if the Office 2019 Pro Plus installation path already exists 
+- Download the Office 365 apps 
+- Asus/Acer/MSI/Razer support tool
+- Change computer name 
+- Installation of more Anti Virus software by typing 'mb for malwarebytes, kas for kaspersky etc.'
+- 
