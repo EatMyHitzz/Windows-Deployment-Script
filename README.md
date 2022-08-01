@@ -1,4 +1,4 @@
-# Windows-Deployment-Script-by-EatMyHitzz
+# ⚡ Windows-Deployment-Script-by-EatMyHitzz
 Deploy Windows (10/11) machines using this Powershell 'deployment' script.
 Including application installation
 Microsoft- or LibreOffice setup 
