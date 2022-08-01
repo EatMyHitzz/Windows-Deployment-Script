@@ -1,8 +1,8 @@
-## Windows-Deployment-Script
+# Windows-Deployment-Script
 Deploy Windows (10/11) machines using this Powershell 'deployment' script
 
 
-# Automatic installation of:
+## Automatic installation of:
 - AnyDesk
 - 7-Zip
 - Kaspersky Anti Virus (or your own anti-virus, just change the .exe file and the variable at the top of the script)
@@ -11,10 +11,10 @@ Deploy Windows (10/11) machines using this Powershell 'deployment' script
 - HP/Dell/Lenovo Support Assistant for drivers 
 
 
-# Automatic setup of:
+## Automatic setup of:
 - Preffered wallpaper (upload image to the "images" folder and change the variable at the top of the script)
 - PDF file with useful information about your company/product
 - Shortcut to website 
 
-# E-mail specification
+## E-mail specification
 - The script will e-mail the hardware information to a specified e-mailaddress, containing usefull information like OS/CPU/GPU/RAM/Serial/Manufacturer
