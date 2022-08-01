@@ -1,6 +1,9 @@
-# Windows-Deployment-Script
-Deploy Windows (10/11) machines using this Powershell 'deployment' script
-
+# Windows-Deployment-Script-by-EatMyHitzz
+Deploy Windows (10/11) machines using this Powershell 'deployment' script.
+Including application installation
+Microsoft- or LibreOffice setup 
+OEM Driver software tool installation (HP/Dell/Lenovo)
+Wallpaper setup
 
 ## Automatic installation of:
 - AnyDesk
