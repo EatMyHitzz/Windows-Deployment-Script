@@ -29,6 +29,7 @@ This script comes with no support what so ever, but i'm happy to help if you hav
 
 # ✔ Upcoming feautures:
 - Check if the Office 2019 Pro Plus installation path already exists 
+- Office 2021 Pro Plus installation (NL/EN)
 - Download the Office 365 apps 
 - Asus/Acer/MSI/Razer support tool
 - Change computer name 
