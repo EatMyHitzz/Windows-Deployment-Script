@@ -15,3 +15,6 @@ Deploy Windows (10/11) machines using this Powershell 'deployment' script
 - Preffered wallpaper (upload image to the "images" folder and change the variable at the top of the script)
 - PDF file with useful information about your company/product
 - Shortcut to website 
+
+# E-mail specification
+- The script will e-mail the hardware information to a specified e-mailaddress, containing usefull information like OS/CPU/GPU/RAM/Serial/Manufacturer
