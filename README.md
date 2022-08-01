@@ -15,7 +15,7 @@ Wallpaper setup
 
 
 ## Automatic setup of:
-- Preffered wallpaper (upload image to the "images" folder and change the variable at the top of the script)
+- Preferred  wallpaper (upload image to the "images" folder and change the variable at the top of the script)
 - PDF file with useful information about your company/product
 - Shortcut to website 
 
