@@ -5,7 +5,7 @@ Microsoft- or LibreOffice setup
 OEM Driver software tool installation (HP/Dell/Lenovo)
 Wallpaper setup
 
-## Automatic installation of:
+## ⚙️ Automatic installation of:
 - AnyDesk
 - 7-Zip
 - Kaspersky Anti Virus (or your own anti-virus, just change the .exe file and the variable at the top of the script)
@@ -14,12 +14,12 @@ Wallpaper setup
 - HP/Dell/Lenovo Support Assistant for drivers 
 
 
-## Automatic setup of:
+## ⚙️ Automatic setup of:
 - Preferred  wallpaper (upload image to the "images" folder and change the variable at the top of the script)
 - PDF file with useful information about your company/product
 - Shortcut to website 
 
-## E-mail specification
+## ⚙️ E-mail report
 - The script will e-mail the hardware information to a specified e-mailaddress, containing usefull information like OS/CPU/GPU/RAM/Serial/Manufacturer
 
 ## 💬 Support
