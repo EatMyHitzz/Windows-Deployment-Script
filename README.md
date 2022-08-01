@@ -2,7 +2,7 @@
 Deploy Windows (10/11) machines using this Powershell 'deployment' script
 
 
-#Automatic installation of:
+# Automatic installation of:
 - AnyDesk
 - 7-Zip
 - Kaspersky Anti Virus (or your own anti-virus, just change the .exe file and the variable at the top of the script)
