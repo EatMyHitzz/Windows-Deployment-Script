@@ -21,3 +21,6 @@ Wallpaper setup
 
 ## E-mail specification
 - The script will e-mail the hardware information to a specified e-mailaddress, containing usefull information like OS/CPU/GPU/RAM/Serial/Manufacturer
+
+# 💬 Support
+- This script comes with no support what so ever, but i'm happy to help if you have questions or need custom functions.
