@@ -1,9 +1,7 @@
-# 🚀 Windows-Deployment-Script-by-EatMyHitzz
-Deploy Windows (10/11) machines using this Powershell 'deployment' script.
-Including application installation
-Microsoft- or LibreOffice setup 
-OEM Driver software tool installation (HP/Dell/Lenovo)
-Wallpaper setup
+# 🚀 Windows deployment script by Nachtkastje
+Basic installation script for Windows based on Powershell
+Full offline installer (except the Windows update).
+Can be customized with your own software, replace the .exe files with your own and rename the 'variables' in the script.
 
 ## ⚙️ Automatic installation of:
 - AnyDesk
