@@ -1,4 +1,4 @@
-# 🚀 Windows deployment script by Nachtkastje
+# 🚀 Windows deployment script
 Basic installation script for Windows based on Powershell
 Full offline installer (except the Windows update).
 Can be customized with your own software, replace the .exe files with your own and rename the 'variables' in the script.
